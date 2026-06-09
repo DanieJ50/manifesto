@@ -1,5 +1,11 @@
 /* styles.css */
 
+html {
+	background-color: goldenrod;
+	background-image: 
+		linear-graident(goldenrod, forestgreen);
+}
+
 h1 {
 	font-family: Arial;
 	color: hotpink;
